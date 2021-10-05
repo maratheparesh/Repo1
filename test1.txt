@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2048-B1C9
+
+ Directory of C:\Users\Paresh\Desktop\MyProject
+
+05-10-2021  17:53    <DIR>          .
+05-10-2021  17:53    <DIR>          ..
+05-10-2021  17:53                 0 Test
+05-10-2021  17:53                 0 test1.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  164,484,841,472 bytes free
